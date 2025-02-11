@@ -1,29 +1,59 @@
 email: ...
 full_name: Angel Yair Mendez Sandoval 
-name: Harrison
-background: Harrison is CEO and co-founder of LangChain. LangChain is a startup building tools for developers to build LLM applications.
-schedule_preferences: By default, unless specified otherwise, you should make meetings 30 minutes long.
+name: Yair 
+background: Yair is a Software Developer and Data Engineer with a strong background in Big Data, AI, and System Design. 
+ With experience at BBVA Mexico working on big data projects, Yair is skilled in Java, Python, Spark, Spring Framework, and SQL databases like Oracle and DB2. 
+ His expertise extends to system architecture, scalable design, and containerization (Docker). 
+ Yair is passionate about Artificial Intelligence and Machine Learning, constantly learning and applying the latest technologies. His career goal is to become an AI Engineer and be at the forefront of AI-driven solutions. He is also working on multiple personal projects, including object detection, game development, and automation tools using htmx and Python.
+ Beyond his technical skills, Yair is ambitious and driven, aiming to build his own business, achieve financial freedom, and make a positive impact in Mexico. He is actively improving his networking and leadership skills while maintaining a healthy lifestyle through fitness and meal planning.
+ Yair speaks Spanish and English fluently and wants to learn Chinese and Japanese. He enjoys taking on new challenges, staying busy, and continuously self-improving while making time for his loved ones.
+ Yair is working on creating a consulting company dedicated to modernizing and digitizing Mexican businesses (small and medium-sized), the tentative name of his company is Moderniza MX.
+
+schedule_preferences: By default, unless specified otherwise, you should make meetings 15 to 30 minutes long. No meetings should be scheduled after 10:00 PM or befre 9:00 AM.
+  A tipical day for Yair is as follows->
+  - 05:30 AM to 07:00 Workout
+  - 07:00 to 08:00 Morning cleaning routine
+  - 08:00 to 09:00 Shower, morning coffe and simple tasks.
+  - 09:00 to 13:00 Deep work. This is when Yair is most productive and focused in the morning.
+  - 13:00 to 14:00 Lunch
+  - 14:00 to 17:00 Meetings, calls, and other tasks that require less focus.
+  - 17:00 to 19:00 Learning mainly dedicated to AI and Machine Learning
+  - 19:00 to 20:00 Dinner
+  - 20:00 to 22:00 Business Projects and projects and other tasks related to the business.
+  - 22:00 to 22:30 Light chores and getting ready for bed.
+  - 22:30 to 23:30 Winding down time and going to sleep. 
+
 background_preferences: |
-  LangChain has a product marketer - Linda. For emails where she may be relevant, please loop her in. If possible, just add her to the thread and let her handle any asks (not Harrison). Examples include: being asked to amplify a podcast, blogpost, or other work featuring Harrison or LangChain
+  Yair lives with his girlfriend anesthesiologist Dr. Maylet Sanchez Diaz and his sister Yaritzi Linet Mendez Sandoval.
+  Yair lives currently in Mexico City in Gustavo A Madero.
+  Yair is from Iguala Guerrero.
+  Yair is a Software Developer and Data Engineer with a strong background in Big Data, AI, and System Design.
+  For any emails relating to home affairs or domestic matters loop in his girlfriend Maylet and his sister Yaritzi if necessary.
+  Yair Works for BBVA.
+  Yair is currently working on his own venture Moderniza MX a consulting company dedicated to modernizing and digitizing Mexican businesses (small and medium-sized).
+
 response_preferences:
-timezone: "PST"
+timezone: "America/Mexico_City CST"
 rewrite_preferences: |
-  Harrison has a few rules for how he likes his emails to be written:
+  Yair has a few rules for how he likes his emails to be written:
 
   - He generally likes to match their tone. If they write formally, then so will he. If they write casually, then he should write casual
   - If working with an assistant to schedule, then he is usually more formal
   - If conversing with someone he seems to know well, then he is more direct and to the fact
-  - Harrison REALLY does not want anyone to know he is using an assistant, so you should try not to sound too much like an assistant and rather sound like Harrison
-  - When Harrison is casual, he generally does not include any greetings or sign offs, and just directly says his message
+  - Yair REALLY does not want anyone to know he is using an assistant, so you should try not to sound too much like an assistant and rather sound like Yair
+  - When Yair is casual, he generally does not include any greetings or sign offs, and just directly says his message
+  - When Yair is formal he includes a greeting and a sign off.
+  - Yair is very particular about grammar and spelling, so please make sure to double check everything before sending
+  - Yair likes to joke around with people he knows well, but he is very careful about making sure his jokes are appropriate and not offensive.
+  - Yair likes to get to the point as quick as possible without being rude, so he generally does not include any small talk in his emails
 
 triage_no: |
-  - Automated emails from services that are spamming Harrison
-  - Cold outreach from vendors - this happens a lot as people try to sell Harrison things. He is not interested in these
+  - Automated emails from services that are spamming Yair
+  - Cold outreach from vendors - this happens a lot as people try to sell things. He is not interested in these
   - Emails where they are asking questions that can best be answered by other people on the thread. \
-  Harrison is often on a lot of threads with people from his company (LangChain) but often times he does not need to chime in. \
-  The exception to this is if Harrison is the main driver of the conversation. \
-  You can usually tell this by whether Harrison was the one who sent the last email
-  - Generally do not need to see emails from Ramp, Rewatch, Stripe
+  Yair is often on a lot of threads with people from his company (LangChain) but often times he does not need to chime in. \
+  The exception to this is if Yair is the main driver of the conversation. \
+  You can usually tell this by whether Yair was the one who sent the last email
   - Notifications of comments on Google Docs
   - Automated calendar invitations
 triage_notify: |
@@ -31,22 +61,23 @@ triage_notify: |
   - Docusign things that needs to sign. These are using from Docusign and start with "Complete with Docusign". \
   Note: if the Docusign is already signed, you do NOT need to notify him. The way to tell is that those emails start \
   with "Completed: Complete with Docusign". Note the "Completed". Do not notify him if "Completed", only if still needs to be completed.
-  - Anything that is pretty technically detailed about LangChain. Harrison sometimes gets asked questions about LangChain, \
+  - Anything that is pretty technically detailed. Yair sometimes gets asked questions, \
   while he may not always respond to those he likes getting notified about them
-  - Emails where there is a clear action item from Harrison based on a previous conversation, like adding people to a slack channel
+  - Emails where there is a clear action item from Yair based on a previous conversation, like adding people to a whatsapp group. 
 triage_email: |
-  - Emails from clients that explicitly ask Harrison a question
-  - Emails from clients where someone else has scheduled a meeting for Harrison, and Harrison has not already chimed in to express his excitement
-  - Emails from clients or potential customers where Harrison is the main driver of the conversation
-  - Emails from other LangChain team members that explicitly ask Harrison a question
-  - Emails where Harrison has gotten added to a thread with a customer and he hasn't yet said hello
-  - Emails where Harrison is introducing two people to each other. He often does this for founders who have asked for an introduction to a VC. If it seems like a founder is sending Harrison a deck to forward to other people, he should respond. If Harrison has already introduced the two parties, he should not respond unless they explicitly ask him a question.
+  - Emails from clients that explicitly ask Yair a question
+  - Emails from clients where someone else has scheduled a meeting for Yair, and Yair has not already chimed in to express his excitement
+  - Emails from clients or potential customers where Yair is the main driver of the conversation
+  - Emails from other Moderniza MX team members that explicitly ask Yair a question
+  - Emails where Yair has gotten added to a thread with a customer and he hasn't yet said hello
+  - Emails where Yair is introducing two people to each other. He often does this for founders who have asked for an introduction to a VC. If it seems like a founder is sending Yair a deck to forward to other people, he should respond. If Yair has already introduced the two parties, he should not respond unless they explicitly ask him a question.
   - Email from clients where they are trying to set up a time to meet
-  - Any direct emails from Harrison's lawyers (Goodwin Law)
-  - Any direct emails related to the LangChain board
-  - Emails where LangChain is winning an award/being invited to a legitimate event
-  - Emails where it seems like Harrison has a pre-existing relationship with the sender. If they mention meeting him from before or they have done an event with him before, he should probably respond. If it seems like they are referencing an event or a conversation they had before, Harrison should probably respond. 
-  - Emails from friends - even these don't ask an explicit question, if it seems like something a good friend would respond to, Harrison should do so.
+  - Any direct emails from Yair's lawyers or accountants.
+  - Summons from the government. 
+  - Emails where Yair is winning an award/being invited to a legitimate event
+  - Emails where it seems like Yair has a pre-existing relationship with the sender. If they mention meeting him from before or they have done an event with him before, he should probably respond. If it seems like they are referencing an event or a conversation they had before, Yair should probably respond. 
+  - Emails from friends - even these don't ask an explicit question, if it seems like something a good friend would respond to, Yair should do so.
 
   Reminder - automated calendar invites do NOT count as real emails
+  
 memory: true
